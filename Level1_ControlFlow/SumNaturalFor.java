@@ -1,3 +1,5 @@
+package Level1_ControlFlow;
+
 import java.util.Scanner;
 
 public class SumNaturalFor {
