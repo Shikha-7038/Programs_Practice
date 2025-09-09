@@ -1,4 +1,3 @@
-package Level1ControlFlow;
 import java.util.Scanner;
 public class DivisibleBy5 {
 
