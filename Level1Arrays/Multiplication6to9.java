@@ -1,3 +1,5 @@
+// 5. Create a program to find the multiplication table of a number entered by the user from 6 to 9 and display the result
+
 package Level1Arrays;
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+// 8. Create a program to take input marks of students in 3 subjects physics, chemistry, and maths. Compute the percentage and then calculate the grade  as per the following guidelines 
+
 package Level2Arrays;
 
 import java.util.Scanner;

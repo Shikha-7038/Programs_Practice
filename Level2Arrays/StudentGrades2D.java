@@ -1,3 +1,5 @@
+// 9. Rewrite the above program to store the marks of the students in physics, chemistry, and maths in a 2D array and then compute the percentage and grade
+
 package Level2Arrays;
 import java.util.Scanner;
 

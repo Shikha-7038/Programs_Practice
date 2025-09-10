@@ -1,3 +1,5 @@
+// 3. Create a program to print a multiplication table of a number.
+
 package Level1Arrays;
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+// 2. Write a program to take user input for 5 numbers and check whether a number is positive,  negative, or zero. Further for positive numbers check if the number is even or odd. Finally compare the first and last elements of the array and display if they equal, greater or less
+
 package Level1Arrays;
 import java.util.Scanner;
 

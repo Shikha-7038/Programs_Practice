@@ -1,3 +1,5 @@
+// 3. Create a program to store the digits of the number in an array and find the largest and second largest element of the array.
+
 package Level2Arrays;
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+// 6. Create a program to find the mean height of players present in a football team.
+
 package Level1Arrays;
 import java.util.Scanner;
 

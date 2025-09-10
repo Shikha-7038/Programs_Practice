@@ -1,3 +1,5 @@
+// 7. Rewrite the above program using multi-dimensional array to store height, weight, and BMI in 2D array for all the persons
+
 package Level2Arrays;
 import java.util.Scanner;
 
